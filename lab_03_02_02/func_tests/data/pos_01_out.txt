@@ -1,0 +1,5 @@
+Input m: Input n: Input elements: 
+new string: 
+Result: 
+     -1      -1      -1      -1 
+      3       2       5       8 

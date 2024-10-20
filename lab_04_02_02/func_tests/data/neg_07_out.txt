@@ -1,0 +1,3 @@
+Input string:
+ERROR: with reading first string.
+

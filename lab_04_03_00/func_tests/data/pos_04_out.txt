@@ -1,0 +1,2 @@
+Input string:
+Result: is name my Hello

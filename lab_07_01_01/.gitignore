@@ -1,0 +1,13 @@
+*
+
+!*.c
+!*.h
+!makefile
+!.gitignore
+!*.md
+!*.sh
+!out/.gitkeep
+!*.txt
+
+!*/
+

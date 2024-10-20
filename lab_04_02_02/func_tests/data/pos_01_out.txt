@@ -1,0 +1,5 @@
+Input string:
+Input string:
+Result: asd yes
+fgh yes
+jklm yes

@@ -1,0 +1,5 @@
+Input size of list: Input elements: 
+new string: 
+new string: 
+new string: 
+Result: 15

@@ -1,0 +1,2 @@
+Input numbers:
+Result: 1

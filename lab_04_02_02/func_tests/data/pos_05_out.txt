@@ -1,0 +1,3 @@
+Input string:
+Input string:
+Result: ame yes

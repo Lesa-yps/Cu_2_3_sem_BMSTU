@@ -1,0 +1,4 @@
+Input size of list: Input elements: 
+new string: 
+new string: 
+Error with scanf elem.

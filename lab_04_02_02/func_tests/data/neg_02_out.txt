@@ -1,0 +1,4 @@
+Input string:
+Input string:
+ERROR: too big second string.
+

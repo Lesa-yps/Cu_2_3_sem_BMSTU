@@ -1,0 +1,5 @@
+Input m: Input n: Input elements: 
+new string: 
+new string: 
+new string: 
+Error: no prime numbers in matrix.

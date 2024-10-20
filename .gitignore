@@ -1,0 +1,18 @@
+# Игнорировать все
+*
+
+# Но не эти файлы (1)
+!.gitignore
+!.gitkeep
+!Makefile
+!makefile
+!*.md
+!*.txt
+!*.sh
+!*.c
+!*.h
+!*/.vscode/c_cpp_properties.json
+!*/.vscode/launch.json
+
+# Даже если файлы (1) в подкаталоге
+!*/

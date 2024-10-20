@@ -1,0 +1,3 @@
+Input string:
+ERROR: too big word in first string.
+

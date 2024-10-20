@@ -1,0 +1,8 @@
+Input m: Input n: Input elements: 
+new string: 
+new string: 
+new string: 
+Result: 
+     28       2       3 
+     11      -5       6 
+    123     -48       0 

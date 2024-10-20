@@ -1,0 +1,1 @@
+Input xa, ya, xb, yb, xc, yc: 3.740000

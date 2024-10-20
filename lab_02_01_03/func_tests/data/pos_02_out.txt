@@ -1,0 +1,2 @@
+Input size of list: Input elements of list (int):
+Result: 9.000000

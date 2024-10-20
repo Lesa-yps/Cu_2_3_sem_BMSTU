@@ -1,0 +1,1 @@
+Input x: Error with scanf.

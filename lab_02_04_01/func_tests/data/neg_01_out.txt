@@ -1,0 +1,2 @@
+Input elements of list:
+Error: list is empty

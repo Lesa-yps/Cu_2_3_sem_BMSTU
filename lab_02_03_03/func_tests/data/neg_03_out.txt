@@ -1,0 +1,1 @@
+Input size of list: Error with scanf size of list.

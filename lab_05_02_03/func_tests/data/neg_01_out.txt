@@ -1,0 +1,2 @@
+Error: file has only one number, programm can't calc.
+

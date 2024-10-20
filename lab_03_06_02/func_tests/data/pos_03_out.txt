@@ -1,0 +1,2 @@
+Input m: Input n: Result: 
+      1 
